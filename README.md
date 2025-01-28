@@ -45,7 +45,7 @@ microservice_architecture_ZagorodniySS/
 
 2. Клонируйте репозиторий:
 ```bash
-git clone git@github.com:
+git clone git@github.com:Serafim-25/microservice_architecture_ZagorodniySS
 cd microservice_architecture_ZagorodniySS
 ```
 
